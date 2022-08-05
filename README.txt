@@ -8,4 +8,5 @@ with open(ファイルの場所) as dictionary_file:
 
 python3 task1.py
 を実行
-
+""単語IDを入力してください:""
+と表示されたら半角数字でIDを入力
